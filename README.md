@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @FSG0005
-- 👀 I’m interested in FiveM Development
-- 💞️ I’m looking to collaborate on discord
-- 📫 How to reach me on discord, add me and dm me! FSG#0005
+### readme
 
-<!---
-FSG0005/FSG0005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Lead Developer & Founder @ [GangV](https://github.com/gangv-fivem) 
+
+Languages:
+- Lua
+- SQL
+- Python
+
+Projects I'm working on currently:
+- FiveM GangV Gang Menu
+- FiveM GangV Base
+- FiveM GangV Turf Wars Script
+
+Contacts:
+- FSG#0005 on Discord
