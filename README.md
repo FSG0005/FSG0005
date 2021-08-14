@@ -1,5 +1,3 @@
-### readme
-
 Lead Developer & Founder @ [GangV](https://github.com/gangv-fivem) 
 
 Languages:
