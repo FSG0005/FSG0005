@@ -2,7 +2,6 @@ Lead Developer & Founder @ [GangV](https://github.com/gangv-fivem)
 
 Languages:
 - Lua
-- SQL
 - Python
 
 Projects I'm working on currently:
