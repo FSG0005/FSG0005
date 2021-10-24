@@ -1,4 +1,4 @@
-Lead Developer & Founder @ [GangV](https://github.com/gangv-fivem) 
+Lead Developer & Founder @ [Eclipse](https://github.com/eclipseroleplay) 
 
 Languages:
 - Lua
